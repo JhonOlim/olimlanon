@@ -1,0 +1,31 @@
+body {
+	background-color: black;
+	color: green;
+}
+
+.gwapo {
+	border: 2px solid green;
+	text-align: center;
+	width: 900px;
+	margin: auto;
+}
+
+.pogi {
+	text-align: center;
+}
+
+h2 {
+	border: 1px solid green;
+	width: 200px;
+	padding: 10px;
+	border-radius: 10px;
+	margin: auto;
+}
+
+button {
+	border-radius: 10px;
+	padding: 5px;
+	box-shadow: 1px 1px 10px green;
+	width: 60px;
+	
+}
